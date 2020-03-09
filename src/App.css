@@ -44,6 +44,15 @@
   margin: auto;
 }
 
+.main {
+  margin-top: 75px;
+  text-align: center;
+  font-size: xx-large;
+  font-family: 'Helvetica';
+  color: #424242;
+ 
+}
+
 .haiku {
   text-align: center;
   font-size: xx-large;
@@ -58,17 +67,16 @@
 }
 
 a {
-    font-family: 'Lekton';
-    background-color: #424242;
-    color: ##ffcdd2;
-    padding: 3px;
+    font-family: 'Helvetica';
+    color: #424242;
+    padding: 4px;
     transition: background-color .5s;
     transition-duration: .4s;
 }
 
 a:hover {
     color: #424242;
-    background-color: ##ffcdd2;
+    background-color: #ffcdd2;
 }
 
 .share {

@@ -23,6 +23,9 @@ export default function Buzz() {
 				<p>{lineTwo}</p>
 				<p>{lineThree}</p>
 			</div>
+            <div className="footer">
+                <p>Made with love by <a href="https://john123allison.github.io">John Allison</a></p>
+            </div>
 		</div>
 	);
 }
